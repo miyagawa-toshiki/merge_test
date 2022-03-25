@@ -34,3 +34,7 @@ gitのブランチはパラレルワールド。addするとgitの追加する�
 git fetch
   
 fetchとmergeが合わさったのpull
+  
+git ignore
+  
+git rm -rf --cached .venv
